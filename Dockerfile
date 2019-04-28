@@ -1,3 +1,3 @@
 FROM lizhenliang/nginx-php:latest
-MAINTAINER www.ctnrs.com
+MAINTAINER caimengzhi
 ADD . /usr/local/nginx/html 
